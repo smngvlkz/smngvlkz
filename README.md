@@ -1,6 +1,4 @@
-# 👋 Hi, I'm a South African software engineer
-
-![Typescript](https://icons8.com/icons/set/typescript) ![JavaScript](https://www.flaticon.com/free-icons/javascript) ![Python](https://www.flaticon.com/free-icons/python) ![C](https://symbolsdb.com/copyright-symbol) ![CSS](https://www.w3schools.com/Css/css_icons.asp) ![HTML](https://www.w3schools.com/icons/)
+👋 Hi, I'm a South African software engineer
 
 👀 I'm passionate about everything tech and gaming.
 
