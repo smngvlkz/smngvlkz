@@ -1,4 +1,4 @@
-## 👋 Hi, I'm a South African self-taught software engineer
+## 👋 Hi, I'm a self-taught software engineer
 
 👀 I'm passionate about everything tech and gaming.
 
