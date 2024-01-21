@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a South African software engineer.
+- 👋 Hi, I’m a South African self-taught software engineer.
 - 👀 I’m interested in everything tech and gaming. 
 - 🌱 I am currently learning Fullstack Software Engineering with ALX Africa that partnered with the Mastercard Foundation and The ROOM.
 - 💞️ I’m looking to collaborate on projects that will change peoples lives, mostly those who lack the opportunities to start in Tech
