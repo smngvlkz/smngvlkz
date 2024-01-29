@@ -2,7 +2,7 @@
 
 👀 I'm passionate about everything tech and gaming.
 
-🌱 I'm currently learning Fullstack Software Engineering with ALX Africa that partnered with the Mastercard Foundation and The ROOM.
+🌱 I'm currently taking Fullstack Software Engineering and Quality Assurance courses
 
 💞️ I'm looking to collaborate on projects that will change people's lives, especially those who lack the opportunities to start in Tech.
 
