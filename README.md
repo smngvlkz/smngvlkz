@@ -2,12 +2,19 @@
 
 # Table of Contents
 • About
+
 • Installation
+
 • Usage
+
 • Features
+
 • Acknowledgements
+
 • Feedback and Support
+
 • Tech Stack
+
 • Github Stats
 
 ## About Me:
@@ -91,20 +98,35 @@ Jokes, games, and fun
 
 ## Acknowledgements
 I would like to thank the following sources, tools, libraries, or frameworks that I have used in my projects:
+
 • [freeCodeCamp], CodeAcedamy, and ALX Africa for providing me with the courses and resources to learn software engineering.
+
 • Visual Studio Code for being my favorite code editor.
+
 • React for being a powerful and easy-to-use front-end library.
+
 • Node.js for being a fast and scalable back-end environment.
+
 • MongoDB for being a flexible and scalable database.
+
 • Python for being a versatile and expressive programming language.
+
 • Django for being a robust and secure web framework.
+
 • Selenium for being a reliable and comprehensive testing tool.
+
 • Next.js for being a modern and efficient framework for React.
+
 • Typescript for being a superset of • JavaScript that adds type safety and features.
+
 • Tailwind for being a utility-first CSS framework that makes styling easy and fun.
+
 • Prisma for being a next-generation ORM that simplifies database access and management.
+
 • MySQL for being a popular and reliable relational database system.
+
 • Socket.io for being a library that enables real-time communication between web clients and servers.
+
 • OpenAI for being a research organization that creates and provides cutting-edge artificial intelligence models and tools.
 
 ## Feedback and Support
