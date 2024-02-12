@@ -63,17 +63,17 @@ Allows users to create, edit, and delete pages, posts, categories, and tags
 Integrates with MySQL database and Prisma ORM
 
 • alx-low_level_programming:
-Low-level programming skills and knowledge
-Data structures and algorithms implementation
-Memory management and manipulation
-System calls and input/output
-Debugging and testing tools
+Low-level programming skills and knowledge.
+Data structures and algorithms implementation.
+Memory management and manipulation.
+System calls and input/output.
+Debugging and testing tools.
 
 • Desktop-Automation-App:
-Desktop organization and automation
-File monitoring and sorting
-File format recognition and allocation
-Customizable and extensible
+Desktop organization and automation.
+File monitoring and sorting.
+File format recognition and allocation.
+Customizable and extensible.
 
 • Discord-clone-app:
 Real-time chat application
