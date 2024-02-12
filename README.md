@@ -99,7 +99,7 @@ Jokes, games, and fun
 ## Acknowledgements
 I would like to thank the following sources, tools, libraries, or frameworks that I have used in my projects:
 
-• [freeCodeCamp], CodeAcedamy, and ALX Africa for providing me with the courses and resources to learn software engineering.
+• [freeCodeCamp], CodeAcedamy, Scrimba and ALX Africa for providing me with the courses and resources to learn software engineering.
 
 • Visual Studio Code for being my favorite code editor.
 
