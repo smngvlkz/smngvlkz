@@ -20,7 +20,7 @@
 ## About Me:
 I’m a self-taught software engineer from South Africa.<br><br>This is my personal portfolio of software engineering projects that I have created or contributed to. I have used various technologies, such as Typescript, HTML, CSS, JavaScript, React, Node.js, MongoDB, Python, Django, Selenium, and more. My goal is to showcase my skills and experience as a software engineer and to learn new things along the way.
 
-Here are some of the projects that I’m proud of:
+Here are some of the repositories and projects that I’m proud of:
 
 • CMS Dashboard: A web application that allows users to create, manage, and publish content for their online stores. It uses Next.js, Typescript, React, Tailwind, Prisma, and MySQL.
 
