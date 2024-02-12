@@ -57,10 +57,10 @@ To use any of my projects, you will need to follow the instructions in the docum
 Here are some of the features and benefits of my projects:
 
 • CMS Dashboard:
-Secure and user-friendly content management system
-Supports multiple websites and domains
-Allows users to create, edit, and delete pages, posts, categories, and tags
-Integrates with MySQL database and Prisma ORM
+Secure and user-friendly content management system.
+Supports multiple websites and domains.
+Allows users to create, edit, and delete pages, posts, categories, and tags.
+Integrates with MySQL database and Prisma ORM.
 
 • alx-low_level_programming:
 Low-level programming skills and knowledge.
@@ -76,25 +76,24 @@ File format recognition and allocation.
 Customizable and extensible.
 
 • Discord-clone-app:
-Real-time chat application
-Chat rooms and direct messages
-Voice and video calls
-User authentication and profile
-Socket.io and Prisma integration
+Real-time chat application.
+Chat rooms and direct messages.
+Voice and video calls.
+User authentication and profile.
+Socket.io and Prisma integration.
 
 • Ecommerce-store:
-Online shopping platform
-Product catalog and search
-Shopping cart and checkout
-Order history and tracking
-CMS Dashboard backend
+Online shopping platform.
+Product catalog and search.
+Shopping cart and checkout.
+Order history and tracking.
+CMS Dashboard backend.
 
 • Azande:
-Voice assistant and chatbot
-Natural language processing and understanding
-OpenAI ChatGPT-3 engine
-Question answering and conversation
-Jokes, games, and fun
+Voice assistant and chatbot.
+Natural language processing and understanding.
+OpenAI ChatGPT-3 engine.
+Question answering and conversation.
 
 ## Acknowledgements
 I would like to thank the following sources, tools, libraries, or frameworks that I have used in my projects:
