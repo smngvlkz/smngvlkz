@@ -7,6 +7,8 @@
 • Features
 • Acknowledgements
 • Feedback and Support
+• Tech Stack
+• Github Stats
 
 ## About Me:
 I’m a self-taught software engineer from South Africa.<br><br>This is my personal portfolio of software engineering projects that I have created or contributed to. I have used various technologies, such as Typescript, HTML, CSS, JavaScript, React, Node.js, MongoDB, Python, Django, Selenium, and more. My goal is to showcase my skills and experience as a software engineer and to learn new things along the way.
