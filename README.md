@@ -35,7 +35,7 @@ Here are some of the repositories and projects that I’m proud of:
 • Azande: A voice assistant named Azande that uses OpenAI ChatGPT-3 as an engine. It can answer questions, and have conversations with the user.
 
 ## Installation
-To install and run any of my projects, you will need to clone the corresponding repository from my GitHub profile. You can use the following command in your terminal:
+To install and run any of my projects, you will need to clone the corresponding repository. You can use the following command in your terminal:
 <!-- start:code block -->
 
 ## Clone the repository
