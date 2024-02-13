@@ -24,7 +24,7 @@ Here are some of the repositories and projects that I’m proud of:
 
 • CMS Dashboard: A web application that allows users to create, manage, and publish content for their online stores. It uses Next.js, Typescript, React, Tailwind, Prisma, and MySQL.
 
-• alx-low_level_programming: A collection of low-level programming exercises and projects in C. It covers topics such as data structures, algorithms, memory management, and system calls.
+• Alx-low_level_programming: A collection of low-level programming exercises and projects in C. It covers topics such as data structures, algorithms, memory management, and system calls.
 
 • Desktop-Automation-App: A Python script that automates my desktop. It monitors my download folder and allocates each file according to their format automatically.
 
@@ -62,7 +62,7 @@ Supports multiple websites and domains.
 Allows users to create, edit, and delete pages, posts, categories, and tags.
 Integrates with MySQL database and Prisma ORM.
 
-• alx-low_level_programming:
+• Alx-low_level_programming:
 Low-level programming skills and knowledge.
 Data structures and algorithms implementation.
 Memory management and manipulation.
