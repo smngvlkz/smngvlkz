@@ -3,10 +3,6 @@
 # Table of Contents
 • About
 
-• Installation
-
-• Usage
-
 • Features
 
 • Acknowledgements
@@ -33,25 +29,6 @@ Here are some of the repositories and projects that I’m proud of:
 • Ecommerce-store: An e-commerce store built using Nextjs, Typescript, React, and TailwindCSS. It allows users to browse, search, and buy products, as well as view their orders and profile. The backend is handled by the CMS Dashboard that I built.
 
 • Azande: A voice assistant named Azande that uses OpenAI ChatGPT-3 as an engine. It can answer questions, and have conversations with the user.
-
-## Installation
-To install and run any of my projects, you will need to clone the corresponding repository. You can use the following command in your terminal:
-<!-- start:code block -->
-
-## Clone the repository
-git clone https://github.com/smngvlkz/<project-name>.git
-
-## Change directory to the project folder
-cd <project-name>
-
-## Install the dependencies
-npm install
-
-## Run the project
-npm start <!-- end:code block -->
-
-## Usage
-To use any of my projects, you will need to follow the instructions in the documentation of each project. You can also check out the live demo or the screenshots of the project to see how it works. 
 
 ## Features
 Here are some of the features and benefits of my projects:
