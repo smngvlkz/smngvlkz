@@ -1,4 +1,4 @@
-## Simangaliso Vilakazi Here! 🚀🚀
+## Simangaliso Vilakazi here! 🚀🚀
 
 # Table of Contents
 • About
