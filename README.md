@@ -3,10 +3,6 @@
 # Table of Contents
 • About
 
-• Features
-
-• Acknowledgements
-
 • Feedback and Support
 
 • Tech Stack
@@ -15,95 +11,6 @@
 
 ## About Me:
 I’m a self-taught software engineer from South Africa.<br><br>This is my personal portfolio of software engineering projects that I have created or contributed to. I have used various technologies, such as Typescript, HTML, CSS, JavaScript, React, Next.js, MongoDB, Python, Django, Selenium, and more. My goal is to showcase my skills and experience as a software engineer and to learn new things along the way.
-
-Here are SOME of the repositories and projects that I’m proud of:
-
-• CMS Dashboard: A web application that allows users to create, manage, and publish content for their online stores. It uses Next.js, Typescript, React, Tailwind, Prisma, and MySQL.
-
-• Alx-low_level_programming: A collection of low-level programming exercises and projects in C. It covers topics such as data structures, algorithms, memory management, and system calls.
-
-• Desktop-Automation-App: A Python script that automates my desktop. It monitors my download folder and allocates each file according to their format automatically.
-
-• Discord-clone-app: A Discord Clone App using Nextjs, Typescript, React, Socket.io, Prisma, Tailwind and MySQL. It allows users to create and join chat rooms, send and receive messages, and use voice and video calls.
-
-• Ecommerce-store: An e-commerce store built using Nextjs, Typescript, React, and TailwindCSS. It allows users to browse, search, and buy products, as well as view their orders and profile. The backend is handled by the CMS Dashboard that I built.
-
-• Azande: A voice assistant named Azande that uses OpenAI ChatGPT-3 as an engine. It can answer questions, and have conversations with the user.
-
-## Features
-Here are some of the features and benefits of my projects:
-
-• CMS Dashboard:
-Secure and user-friendly content management system.
-Supports multiple websites and domains.
-Allows users to create, edit, and delete pages, posts, categories, and tags.
-Integrates with MySQL database and Prisma ORM.
-
-• Alx-low_level_programming:
-Low-level programming skills and knowledge.
-Data structures and algorithms implementation.
-Memory management and manipulation.
-System calls and input/output.
-Debugging and testing tools.
-
-• Desktop-Automation-App:
-Desktop organization and automation.
-File monitoring and sorting.
-File format recognition and allocation.
-Customizable and extensible.
-
-• Discord-clone-app:
-Real-time chat application.
-Chat rooms and direct messages.
-Voice and video calls.
-User authentication and profile.
-Socket.io and Prisma integration.
-
-• Ecommerce-store:
-Online shopping platform.
-Product catalog and search.
-Shopping cart and checkout.
-Order history and tracking.
-CMS Dashboard backend.
-
-• Azande:
-Voice assistant and chatbot.
-Natural language processing and understanding.
-OpenAI ChatGPT-3 engine.
-Question answering and conversation.
-
-## Acknowledgements
-I would like to thank the following sources, tools, libraries, or frameworks that I have used in my projects:
-
-• [freeCodeCamp], CodeAcedamy, Scrimba and ALX Africa for providing me with the courses and resources to learn software engineering.
-
-• Visual Studio Code for being my favorite code editor.
-
-• React for being a powerful and easy-to-use front-end library.
-
-• Node.js for being a fast and scalable back-end environment.
-
-• MongoDB for being a flexible and scalable database.
-
-• Python for being a versatile and expressive programming language.
-
-• Django for being a robust and secure web framework.
-
-• Selenium for being a reliable and comprehensive testing tool.
-
-• Next.js for being a modern and efficient framework for React.
-
-• Typescript for being a superset of • JavaScript that adds type safety and features.
-
-• Tailwind for being a utility-first CSS framework that makes styling easy and fun.
-
-• Prisma for being a next-generation ORM that simplifies database access and management.
-
-• MySQL for being a popular and reliable relational database system.
-
-• Socket.io for being a library that enables real-time communication between web clients and servers.
-
-• OpenAI for being a research organization that creates and provides cutting-edge artificial intelligence models and tools.
 
 ## Feedback and Support
 I would love to hear your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
