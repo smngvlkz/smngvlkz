@@ -20,7 +20,7 @@ I would love to hear your feedback, suggestions, or questions about my projects.
 If you like my projects and want to support me, you can also give me a star on GitHub
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=bash,c,js,ts,cs,py,css,html,react,tailwind,git,github,linux,vim,nextjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,py,js,ts,cs,css,linux,html,react,vim,tailwind,git,github,nextjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smngvlkz&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
