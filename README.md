@@ -10,7 +10,9 @@
 • Github Stats
 
 ## About Me:
-I’m a self-taught software engineer from South Africa.<br><br>This is my personal portfolio of software engineering projects that I have created or contributed to. I have used various technologies, such as Typescript, HTML, CSS, JavaScript, React, Next.js, MongoDB, Python, Django, Selenium, and more. My goal is to showcase my skills and experience as a software engineer, and learn new things along the way.
+I am a proud father to two beautiful daughters, a passionate self-taught software engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
+
+My objective is to demonstrate the skills and experience I've acquired throughout my journey as a software engineer. But this is more than just a showcase; it's a chronicle of my lifelong commitment to becoming a proficient and dependable developer. I strive to create solutions that address real-world problems, and every project here is a reflection of that commitment. 
 
 ## Feedback and Support
 I would love to hear your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
