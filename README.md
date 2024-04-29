@@ -1,6 +1,4 @@
-## Simangaliso Vilakazi ![ProgrammerCycleGIF (3)](https://github.com/smngvlkz/smngvlkz/assets/125494888/9b21afd9-9cfa-495f-9e6a-bbd54aaec79c)
-
-
+## 🧑🏾‍💻 Simangaliso Vilakazi 
 
 I am a proud father to two beautiful daughters, a passionate self-taught software engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
 
