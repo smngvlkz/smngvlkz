@@ -9,6 +9,8 @@ I would love to hear your feedback, suggestions, or questions about my projects.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smngvlkz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smngvlkz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SmangaDev) 
 
+You can also schedule a call or meeting on my calendly - https://calendly.com/simangalisovilakazk1
+
 If you like my projects and want to support me, you can also give me a star on GitHub
 
 ## 🧰 Languages and Tools:
