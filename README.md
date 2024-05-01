@@ -11,7 +11,7 @@ I would love to hear your feedback, suggestions, or questions about my projects.
 
 For collaboration, you can also schedule a call or meeting via [Calendly](https://calendly.com/simangalisovilakazk1) 📅
 
-If you like my projects and want to support me, you can always give me ⭐
+If you like my projects and want to support me, you can always give me a ⭐
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,py,js,ts,cs,css,linux,html,react,vim,tailwind,git,github,nextjs,nestjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
