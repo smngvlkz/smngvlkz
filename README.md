@@ -7,7 +7,7 @@ My objective is to demonstrate the skills and experience I've acquired throughou
 ## 🫱🏾‍🫲🏾 Feedback and Support
 I would love to hear your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/smngvlkz) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smngvlkz) [![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/SmangaDev) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/smngvlkz) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smngvlkz) [![twitter](https://skillicons.dev/icons?i=x-dark.svg)](https://x.com/SmangaDev) 
 
 For collaboration, you can also schedule a call or meeting via [Calendly](https://calendly.com/simangalisovilakazk1) 📅
 
