@@ -1,6 +1,6 @@
 ## 🧗🏾‍♂️ Simangaliso Vilakazi 
 
-I am a proud father to two amazing daughters, a passionate software engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
+I am a passionate software engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
 
 My objective is to demonstrate the skills and experience I've acquired throughout my journey as a software engineer. But this is more than just a showcase; it's a chronicle of my lifelong commitment to becoming a proficient and dependable developer. I strive to create solutions that address real-world problems, and every project here is a reflection of that commitment. 
 
