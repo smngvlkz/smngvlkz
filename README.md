@@ -1,11 +1,13 @@
 ## 🧗🏾‍♂️ Simangaliso Vilakazi 
 
-I am a passionate software engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
+I am a passionate software and research engineer and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
 
-My objective is to demonstrate the skills and experience I've acquired throughout my journey as a software engineer. But this is more than just a showcase; it's a chronicle of my lifelong commitment to becoming a proficient and dependable developer. I strive to create solutions that address real-world problems, and every project here is a reflection of that commitment. 
+# My Objective
+
+My goal is to leverage my skills and experience in software engineering and research to drive innovation, explore new technologies, and solve complex problems. I aim to demonstrate my expertise in developing cutting-edge solutions, conducting thorough research, and collaborating with others to push the boundaries of what's possible.
 
 ## 🫱🏾‍🫲🏾 Feedback and Support
-I would love to hear your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
+I would love your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/smngvlkz) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smngvlkz) [![twitter](https://skillicons.dev/icons?i=x-dark.svg)](https://x.com/SmangaDev) 
 
