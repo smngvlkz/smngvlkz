@@ -1,6 +1,6 @@
 ## 🧗🏾‍♂️ Simangaliso Vilakazi 
 
-I am a passionate software and research engineer and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - from projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
+I am a passionate software and research engineer, and an avid gamer. This portfolio is a testament to my journey in the realm of software development. It's a collection of projects that I've poured my heart into - from projects that I've created from scratch, contributed to, and used as stepping stones in my continuous learning process.
 
 # My Objective
 
