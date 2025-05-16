@@ -7,7 +7,7 @@ I am a passionate software and research engineer, and an avid gamer. This portfo
 My goal is to leverage my skills and experience in software engineering and research to drive innovation, explore new technologies, and solve complex problems. I aim to demonstrate my expertise in developing cutting-edge solutions, conducting thorough research, and collaborating with others to push the boundaries of what's possible.
 
 ## 🫱🏾‍🫲🏾 Feedback and Support
-I would love your feedback, suggestions, or questions about my projects. You can contact me via email at simangalisovilakazk1@icloud.com or via any of the following platforms:
+I would love your feedback, suggestions, or questions about my projects. You can contact me via any of the following platforms:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/smngvlkz) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smngvlkz) [![twitter](https://skillicons.dev/icons?i=x-dark.svg)](https://x.com/SmangaDev) 
 
