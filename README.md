@@ -17,8 +17,3 @@ If you like any of my projects and want to support me, you can always give me a 
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,py,js,ts,cs,css,ruby,linux,html,react,vim,tailwind,git,github,nextjs,nestjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
-
----
-[![](https://visitcount.itsvg.in/api?id=smngvlkz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
