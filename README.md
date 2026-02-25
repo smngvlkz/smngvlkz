@@ -9,7 +9,7 @@ My goal is to leverage my skills and experience in software engineering and rese
 ## 🫱🏾‍🫲🏾 Feedback and Support
 Have feedback, suggestions, or questions? Feel free to reach out via the platform below:
 
-📅 [Book a call via Calendly](https://calendly.com/simangalisovilakazi/30min")
+📅 [Book a call via Calendly](https://calendly.com/simangalisovilakazi/30min)
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,py,js,ts,cs,css,ruby,linux,html,react,vim,tailwind,git,github,nextjs,nestjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
