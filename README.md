@@ -7,13 +7,9 @@ I am a passionate software and research engineer, and an avid gamer. This portfo
 My goal is to leverage my skills and experience in software engineering and research to drive innovation, explore new technologies, and solve complex problems. I aim to demonstrate my expertise in developing cutting-edge solutions, conducting thorough research, and collaborating with others to push the boundaries of what's possible.
 
 ## 🫱🏾‍🫲🏾 Feedback and Support
-I would love your feedback, suggestions, or questions about my projects. You can contact me via any of the following platforms:
+Have feedback, suggestions, or questions? Feel free to reach out via the platform below:
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/smngvlkz) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smngvlkz) [![twitter](https://skillicons.dev/icons?i=x-dark.svg)](https://x.com/SmangaDev) 
-
-For collaboration, you can also schedule a call or meeting via [Calendly](https://calendly.com/simangalisovilakazk1) 📅
-
-If you like any of my projects and want to support me, you can always give me a ⭐
+📅 [Book a call via Calendly](https://calendly.com/simangalisovilakazi/30min")
 
 ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,py,js,ts,cs,css,ruby,linux,html,react,vim,tailwind,git,github,nextjs,nestjs,nodejs,mongodb,mysql,prisma&perline=25)](https://skillicons.dev)
